@@ -1,0 +1,12 @@
+				USA 2016 Item Sales Dashboard
+
+Aim: This aim encapsulates the key objectives of creating the dashboard, emphasizing the need to enhance sales outcomes by leveraging               insights derived from the detailed analysis of item sales data specifically for the USA market in the year 2016. The aim implies a                   focus on optimizing strategies, improving sales efficiency, and facilitating informed decision-making based on the dashboard's                   findings.
+
+
+Following are the Conculsions from this Project:
+
+1.The substantial contribution of the New York location to the total sales amount underscores its pivotal role in driving revenue, reflecting   a strong market presence and effective sales strategies in that region.
+2.The month of December stands out as the pinnacle of sales performance, boasting the highest total sale amount, indicating robust   consumer engagement, successful marketing initiatives, and potentially year-end purchasing trends.
+3.Sara Snyder, the top-performing sales representative, consistently demonstrated exceptional sales prowess, significantly contributing to   the overall success of the team and the company.
+4.The consistent popularity of widgets as the best-selling item in both the East and West regions highlights its universal appeal and market   demand, emphasizing its significance in driving sales success across diverse geographic areas..
+5.Surprisingly, the "Junk" item not only stands out for its unconventional name but also records a notable distinction by surpassing other   items in terms of quantity sold, suggesting a unique market demand or a strategic pricing advantage
